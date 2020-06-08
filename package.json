@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "node apiServer.js",
-    "prestart:api": "node createMockDb.js"
+    "prestart": "node createMockDb.js"
   },
   "author": "",
   "license": "ISC",
