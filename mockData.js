@@ -11,7 +11,7 @@ const events = [
     },
     csv: "Some CSV link for Whatsapp",
     report: "Some report link for Whatsapp",
-    image_url: __dirname + "/events/Bitmap1.png",
+    image_url: "/events/Bitmap1.png",
     date: "05-06-2020",
   },
   {
@@ -26,7 +26,7 @@ const events = [
     },
     csv: "Some CSV link for Super Jewels Quest",
     report: "Some report link for Super Jewels Ques",
-    image_url: __dirname + "/events/Bitmap2.png",
+    image_url: "/events/Bitmap2.png",
     date: "06-06-2020",
   },
   {
@@ -41,7 +41,7 @@ const events = [
     },
     csv: "Some CSV link for Mole Slayer",
     report: "Some report link for Mole Slayer",
-    image_url: __dirname + "/events/Bitmap3.png",
+    image_url: "/events/Bitmap3.png",
     date: "07-06-2020",
   },
   {
@@ -56,7 +56,7 @@ const events = [
     },
     csv: "Some CSV link for Mancala Mix",
     report: "Some report link for Mancala Mix",
-    image_url: __dirname + "/events/Bitmap4.png",
+    image_url: "/events/Bitmap4.png",
     date: "04-06-2020",
   },
 ];
