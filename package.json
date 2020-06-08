@@ -1,0 +1,15 @@
+{
+  "name": "eventserver",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node apiServer.js",
+    "prestart:api": "node createMockDb.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "path": "^0.12.7"
+  }
+}
